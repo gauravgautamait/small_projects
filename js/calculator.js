@@ -1,4 +1,4 @@
-/* By Gaurav Kumar Rawat*/
+
 		var value1=0;
 		var op=null;
 		var value2=0;
